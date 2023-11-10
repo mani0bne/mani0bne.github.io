@@ -8,10 +8,10 @@ Hey there! 👋 I'm Manihas Netha, a passionate tech enthusiast and web develope
 I'm a dedicated individual with a strong passion for technology and its transformative power. My journey in the world of web development has been an exciting adventure, and I'm constantly exploring new technologies to enhance my skills.
 
 - **Name:** Manihas Netha
-- **Location:** [City, Country]
-- **Email:** [YourEmail@example.com]
+- **Location:** [Warangal, India]
+- **Email:** [mannihasnetha@hotmail.com]
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/manihasnetha/)
-- **Portfolio:** [Your Portfolio Website]
+
 
 ## Skills
 
