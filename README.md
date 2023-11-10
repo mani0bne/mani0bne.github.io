@@ -10,7 +10,7 @@ I'm a dedicated individual with a strong passion for technology and its transfor
 - **Name:** Manihas Netha
 - **Location:** [Warangal, India]
 - **Email:** [mannihasnetha@hotmail.com]
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/manihasnetha/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/manihas-netha-nadimetla-ba25a0243/
 
 
 ## Skills
